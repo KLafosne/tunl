@@ -3,7 +3,7 @@ main = "build/worker/shim.mjs"
 compatibility_date = "2024-05-23"
 minify = true
 
-account_id = "88b9269bff4c06a21c57c73473930653"  # Replace with the 
+account_id = "f35bf5e8d4d9e1259faebaaf0231e1da"  # Replace with the 
 
 [build]
 command = "cargo install -q worker-build && worker-build --release"
